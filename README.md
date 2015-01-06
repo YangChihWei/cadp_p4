@@ -1,2 +1,5 @@
-cadp_p4
-=======
+demo
+====
+
+2014cp and cadp demo repository
+
